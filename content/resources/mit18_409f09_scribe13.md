@@ -2,8 +2,13 @@
 content_type: resource
 description: "Lecture notes on the general version of the Brunn-Minkowski inequality,\
   \ the isoperimetric inequality, and Grunbaum\u2019s theorem. "
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/24a211eecdfd8fb9a6092a4c2acf14cf_MIT18_409F09_scribe13.pdf
+file: /media/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/24a211eecdfd8fb9a6092a4c2acf14cf_MIT18_409F09_scribe13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 13
 uid: 24a211ee-cdfd-8fb9-a609-2a4c2acf14cf
