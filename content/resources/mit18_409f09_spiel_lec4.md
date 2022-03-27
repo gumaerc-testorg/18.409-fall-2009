@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fc7237d5-3f22-d2a3-d365-059f7018eda4
 resourcetype: Document
 title: Lecture 4
 uid: f7265287-bd42-c78a-c44b-9d76f60d393c

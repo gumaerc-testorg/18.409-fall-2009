@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 137d4cdd-578d-210d-dbb5-0834c6fdbd6e
 resourcetype: Document
 title: Hints for Problem Set 1
 uid: 63ee0876-0072-661d-d82c-2ced97c3e1fc

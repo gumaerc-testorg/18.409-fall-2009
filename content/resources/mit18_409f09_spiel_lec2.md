@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: fc7237d5-3f22-d2a3-d365-059f7018eda4
 resourcetype: Document
 title: Lecture 2
 uid: 0953c946-927a-b5ea-6187-bd5b804b3ee3
