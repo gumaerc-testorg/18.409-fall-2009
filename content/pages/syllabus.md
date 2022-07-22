@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains course meeting times, course description, course
+  goals, course requirements, collaboration policy, prerequisites and calendar table.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0fe70028-e5b8-3fb2-cf17-324c4c113b28
 ---

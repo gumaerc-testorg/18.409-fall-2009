@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fc7237d5-3f22-d2a3-d365-059f7018eda4
 ---
@@ -13,7 +17,7 @@ Andersen, R., F. Chung, K. Lang. "[Local Graph Partitioning using PageRank Vecto
 
 Dan Spielman's Notes on Lovasz-Simonovits Theorem
 
-> Notes from Dan Spielman's course on _Spectral Graph Theory_ about the Lovasz-Simonovits theorem. ([PDF]({{< baseurl >}}/resources/mit18_409f09_spiel_lec7)) (Courtesy of Dan Spielman. Used with permission.)
+> Notes from Dan Spielman's course on _Spectral Graph Theory_ about the Lovasz-Simonovits theorem. ({{% resource_link 0881d6e3-e4cf-fd9b-c180-cfced61579f0 "PDF" %}}) (Courtesy of Dan Spielman. Used with permission.)
 
 Jerrum, M., and A. Sinclaire. "Approximating the Permanent." _SIAM Journal on Computing_ 18 (1989): 1149-1178.
 
@@ -24,21 +28,21 @@ See section 11.3. This is the section of Motwani and Raghavan's book "_Randomize
 
 Dan Spielman's Example Computations
 
-> These are notes from a lecture given in another class that covered spectral graph theory. In them, many of the examples from today's class (including the grid graph and graph products) are worked out in detail. ([PDF]({{< baseurl >}}/resources/mit18_409f09_spiel_lec2)) (Courtesy of Dan Spielman. Used with permission.)
+> These are notes from a lecture given in another class that covered spectral graph theory. In them, many of the examples from today's class (including the grid graph and graph products) are worked out in detail. ({{% resource_link 0953c946-927a-b5ea-6187-bd5b804b3ee3 "PDF" %}}) (Courtesy of Dan Spielman. Used with permission.)
 
 Dan Spielman's Notes on Cutting
 
-> These are Dan Spielman's notes on using graph spectra for cutting ([PDF]({{< baseurl >}}/resources/mit18_409f09_spiel_lec4)) (Courtesy of Dan Spielman. Used with permission.)
+> These are Dan Spielman's notes on using graph spectra for cutting ({{% resource_link f7265287-bd42-c78a-c44b-9d76f60d393c "PDF" %}}) (Courtesy of Dan Spielman. Used with permission.)
 
-Chung, F. Chapter 1 in "Eigenvalues and the Laplacian of a Graph." _Spectral Graph Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.ucsd.edu/~fan/research/cb/ch1.pdf))
+Chung, F. Chapter 1 in "Eigenvalues and the Laplacian of a Graph." _Spectral Graph Theory_. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch1.pdf))
 
-———. Chapter 2 in "Isoperimetric Problems." _Spectral Graph Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.ucsd.edu/~fan/research/cb/ch2.pdf))
+———. Chapter 2 in "Isoperimetric Problems." _Spectral Graph Theory_. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch2.pdf))
 
-———. Chapter 3 in "Diameters and Eigenvalues." _Spectral Graph Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.ucsd.edu/~fan/research/cb/ch3.pdf))
+———. Chapter 3 in "Diameters and Eigenvalues." _Spectral Graph Theory_. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch3.pdf))
 
-———. Chapter 4 in "Paths, Flows and Routing." _Spectral Graph Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.ucsd.edu/~fan/research/cb/ch4.pdf))
+———. Chapter 4 in "Paths, Flows and Routing." _Spectral Graph Theory_. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch4.pdf))
 
-———. "Bibliography." _Spectral Graph Theory_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.ucsd.edu/~fan/research/cb/bib.pdf))
+———. "Bibliography." _Spectral Graph Theory_. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/bib.pdf))
 
 Randomized Approximation Schemes for Cuts and Flows in Capacitated Graphs
 
@@ -47,12 +51,12 @@ Randomized Approximation Schemes for Cuts and Flows in Capacitated Graphs
 Readings on Iterative Methods for Linear Algebra
 ------------------------------------------------
 
-Shewchuk, J. "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
+Shewchuk, J. "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain." ([PDF](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
 
 Readings on Convex Geometry
 ---------------------------
 
-Ball, K. "An Elementary Introduction to Modern Convex Geometry." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.msri.org/publications/books/Book31/files/ball.pdf))
+Ball, K. "An Elementary Introduction to Modern Convex Geometry." ([PDF](http://www.msri.org/publications/books/Book31/files/ball.pdf))
 
 Lovasz, L., and M. Simonovits. "The mixing rate of Markov chains, an isoperimetric inequality, and computing the volume." _Foundations of Computer Science_ 1 (1990): 346-354.
 
