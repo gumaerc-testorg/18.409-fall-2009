@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 5
 uid: 0e8570f9-2877-1e39-92f5-9e13c91d19bc
 ---
 Lecture notes on Monte Carlo methods, DNF counting and an exponentially small target, and an FPRAS for approximating the permanent of a dense graph.
-

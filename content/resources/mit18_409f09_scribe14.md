@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 14
 uid: 8e8a04c2-dc55-ae84-48e1-052b220fef07
 ---
 Lecture notes on a randomized, polynomial time algorithm for approximating the volume of a convex body, given a separation oracle.
-

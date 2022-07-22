@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 6
 uid: b2ded921-46fb-12b7-8ba8-3cd13b17b19b
 ---
 Lecture notes on diameters and their relationship to λ2, eigenvalues, expanders, randomness, and butterﬂy networks.
-

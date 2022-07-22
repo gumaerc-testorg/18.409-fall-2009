@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 2
 uid: 0953c946-927a-b5ea-6187-bd5b804b3ee3
 ---
 Lecture notes on the Laplacian, the eigenvalues and eigenvectors of the Laplacians of some fundamental graphs, bounding eigenvalues, and the Courant-Fischer characterization of eigenvalues.
-

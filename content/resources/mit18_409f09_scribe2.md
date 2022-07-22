@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 2
 uid: 7c5d4c77-9c64-e9ed-3a57-83a80b7eb0a5
 ---
 Lecture notes on the properties of the Laplacian, the spectra of some common graphs, Fourier coeﬃcients, bounding Laplacian eigenvalues, bounding λ2 and λmax, and the Rayleigh quotient.
-

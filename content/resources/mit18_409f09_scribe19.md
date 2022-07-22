@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 19
 uid: 08cea721-b6c9-e44a-edce-fa080de2ff6e
 ---
 Lecture notes on Minkowski’s theorem, algorithmic questions, lattice basis reduction, Gauss’s algorithm, and reduced bases.
-

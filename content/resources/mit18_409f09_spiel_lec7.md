@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 7
 uid: 0881d6e3-e4cf-fd9b-c180-cfced61579f0
 ---
 Lecture notes on random walks on weighted graphs, conductance, and the Lovasz-Simonovits theorem.
-

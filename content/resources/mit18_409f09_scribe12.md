@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 12
 uid: bbfe035c-757a-79e0-3295-166f9fd08f18
 ---
 Lecture notes on separating hyperplanes, Banach–Mazur distance, Fritz John’s theorem, and the Brunn-Minkowski inequality.
-

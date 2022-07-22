@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 7
 uid: f27c40e0-0c04-df2e-6bfd-3f8e9bb9ab6f
 ---
 Lecture notes on nonblocking routing networks, and a method for local and almost linear-time clustering and partitioning based on the Lovasz-Simonovits theorem.
-

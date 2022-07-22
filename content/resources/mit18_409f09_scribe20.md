@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 20 '
 uid: eaa6bc3c-d49d-9463-0490-cfe3227fa5dc
 ---
 Lecture notes on Gram-Schmidt and Gauss’s algorithm, the LLL algorithm, analysis of LLL algorithm, and application of LLL–Lenstra’s algorithm for integer program­ming.
-

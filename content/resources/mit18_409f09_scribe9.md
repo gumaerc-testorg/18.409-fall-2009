@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 9
 uid: 105bb5d8-da4f-17bc-9ed3-099824e0e59e
 ---
 Lecture notes on sparsiﬁcation, spectral sparsiﬁers, order relations on Laplacians, pseudoinverses, eﬀective resistance, and error bounds.
-

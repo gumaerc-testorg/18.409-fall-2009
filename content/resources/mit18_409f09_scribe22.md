@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 22
 uid: 26afce09-3872-dbb0-51ad-ee741330f10a
 ---
 Lecture notes on convergence analysis of steepest descent, conjugate directions, conjugate Gram-Schmidt, conjugate gradients, and convergence analysis of conjugate gadients. 
-

@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: Lecture 1
 uid: 2e812afd-941c-b290-f887-e3a0e53e51df
 ---
 Lecture notes on linear algebra, matrices for graphs, example Laplacians, and a MATLAB demonstration.
-
-

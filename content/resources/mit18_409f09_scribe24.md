@@ -5,6 +5,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 24
 uid: 60e418d9-4ed1-5598-8f46-24795f497d30
 ---
 Lecture note on the multiplicative weights algorithm and its applications.
-

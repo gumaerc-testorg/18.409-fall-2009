@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 15
 uid: 8da0e2de-099b-7027-f335-359c02e268f0
 ---
 Lecture notes on a method to randomly sample from a convex body, the grid walk, mixing, approximately computing volume, concentration of measure, and geometric probability theory.
-

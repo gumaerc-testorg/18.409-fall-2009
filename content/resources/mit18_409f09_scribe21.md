@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 21
 uid: 68f1b1ba-4d41-9ee8-f3b6-7a41ebf258e8
 ---
 Lecture notes on solving linear systems, iterative methods, and the technique of steepest descent.
-

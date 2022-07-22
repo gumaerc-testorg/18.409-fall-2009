@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 13
 uid: 24a211ee-cdfd-8fb9-a609-2a4c2acf14cf
 ---
 Lecture notes on the general version of the Brunn-Minkowski inequality, the isoperimetric inequality, and Grunbaum’s theorem. 
-

@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 8
 uid: 5823d396-bfe2-ae2c-5bea-9c431601276e
 ---
 Lecture notes on local and almost linear-time clustering and partitioning, PageRank, and sparsiﬁcation.
-

@@ -5,6 +5,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 10
 uid: f2033cfb-cb66-1cf6-bd1d-afe80d5884b6
 ---
 Lecture notes on spectral sparsiﬁers and convex geometry.
-

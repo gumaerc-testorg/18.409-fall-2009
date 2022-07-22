@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 3
 uid: 535add3f-6457-cc13-e51d-9774f16bf48f
 ---
 Lecture notes on the Courant-Fischer formula, Rayleigh quotients, the connection of λ2 to graph cutting, and Cheeger’s inequality.
-

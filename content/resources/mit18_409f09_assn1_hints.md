@@ -8,6 +8,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Hints for Problem Set 1
 uid: 63ee0876-0072-661d-d82c-2ced97c3e1fc
 ---
 Hints for a problem set on bipartite graphs, matrix inequalities and lower bounds for λ2, the eﬃcacy of spectral partitioning, proving the Chernoﬀ bound, the existence of bipartite expanders, expander codes, eigenvalues, vertex degrees, indepedent sets, and graph coloring.
-

@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 25
 uid: 623c1d5c-617c-b3a1-25ea-a8ee65ee960c
 ---
 Lecture notes on various applications of the theory of multiplicative weights (MW), zero-sum games, linear programming and the Plotkin-Shmoys-Tardos framework, boosting, and approximation algorithms.
-

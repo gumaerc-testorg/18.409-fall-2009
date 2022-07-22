@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 4
 uid: f7265287-bd42-c78a-c44b-9d76f60d393c
 ---
 Lecture notes on graph partitioning, approximating φ(G) with an integer program, and Cheeger’s inequality.
-

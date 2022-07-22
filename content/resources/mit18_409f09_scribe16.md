@@ -7,6 +7,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 16
 uid: 54b553cd-dd0a-04ce-1f9d-4e13d786f020
 ---
 Lecture notes on the Chernoﬀ bound as concentration of measure, the isoperimetric inequality, Lipschitz functions and concentration of measure, and the Johnson-Lindenstrauss theorem.
-

@@ -6,6 +6,7 @@ file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-to
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 23
 uid: 67ac4c1f-8617-d2bd-d493-7aa1e57acdfc
 ---
 Lecture notes on preconditioning, a method for speeding up the conjugate gradient algorithm for speciﬁc matrices.
-
