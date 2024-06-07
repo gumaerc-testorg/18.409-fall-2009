@@ -4,6 +4,7 @@ description: 'Lecture notes on convergence analysis of steepest descent, conjuga
   directions, conjugate Gram-Schmidt, conjugate gradients, and convergence analysis
   of conjugate gadients. '
 file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/26afce093872dbb051adee741330f10a_MIT18_409F09_scribe22.pdf
+file_size: 105735
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on linear algebra, matrices for graphs, example Laplacians,\
   \ and a MATLAB demonstration.\r\n"
 file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/2e812afd941cb290f887e3a0e53e51df_MIT18_409F09_scribe1.pdf
+file_size: 433402
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
