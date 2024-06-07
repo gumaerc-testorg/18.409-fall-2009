@@ -4,6 +4,7 @@ description: Lecture notes on nonblocking routing networks, and a method for loc
   and almost linear-time clustering and partitioning based on the Lovasz-Simonovits
   theorem.
 file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/f27c40e00c04df2e6bfd3f8e9bb9ab6f_MIT18_409F09_scribe7.pdf
+file_size: 189180
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
