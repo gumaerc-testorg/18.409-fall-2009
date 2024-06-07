@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on random walks on weighted graphs, conductance, and the
   Lovasz-Simonovits theorem.
 file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/0881d6e3e4cffd9bc180cfced61579f0_MIT18_409F09_spiel_lec7.pdf
+file_size: 210145
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -6,6 +6,7 @@ description: Hints for a problem set on iterative methods for linear algebra, co
   spanning tree preconditioners, Chebyshev polynomials, lattices, small solutions
   to modular polynomial equations and attacking, and low-exponent RSA encryption.
 file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/7e4fac9ae12f2324fe0861451b34806b_MIT18_409F09_assn3_hints.pdf
+file_size: 56734
 file_type: application/pdf
 learning_resource_types:
 - Assignments
