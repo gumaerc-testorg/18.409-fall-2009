@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Monte Carlo methods, DNF counting and an exponentially
   small target, and an FPRAS for approximating the permanent of a dense graph.
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/0e8570f928771e3992f59e13c91d19bc_MIT18_409F09_scribe5.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/0e8570f928771e3992f59e13c91d19bc_MIT18_409F09_scribe5.pdf
 file_size: 425133
 file_type: application/pdf
 learning_resource_types:
