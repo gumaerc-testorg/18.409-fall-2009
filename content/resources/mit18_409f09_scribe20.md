@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on Gram-Schmidt and Gauss\u2019s algorithm, the LLL algorithm,\
   \ analysis of LLL algorithm, and application of LLL\u2013Lenstra\u2019s algorithm\
   \ for integer program\xADming."
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/eaa6bc3cd49d94630490cfe3227fa5dc_MIT18_409F09_scribe20.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/eaa6bc3cd49d94630490cfe3227fa5dc_MIT18_409F09_scribe20.pdf
 file_size: 202524
 file_type: application/pdf
 learning_resource_types:
