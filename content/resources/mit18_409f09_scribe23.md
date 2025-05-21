@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on preconditioning, a method for speeding up the conjugate\
   \ gradient algorithm for speci\uFB01c matrices."
-file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/67ac4c1f8617d2bdd4937aa1e57acdfc_MIT18_409F09_scribe23.pdf
+file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/67ac4c1f8617d2bdd4937aa1e57acdfc_MIT18_409F09_scribe23.pdf
 file_size: 116479
 file_type: application/pdf
 learning_resource_types:
