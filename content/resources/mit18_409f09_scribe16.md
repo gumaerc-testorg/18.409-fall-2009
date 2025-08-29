@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on the Cherno\uFB00 bound as concentration of measure,\
   \ the isoperimetric inequality, Lipschitz functions and concentration of measure,\
   \ and the Johnson-Lindenstrauss theorem."
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/54b553cddd0a04ce1f9d4e13d786f020_MIT18_409F09_scribe16.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/54b553cddd0a04ce1f9d4e13d786f020_MIT18_409F09_scribe16.pdf
 file_size: 117856
 file_type: application/pdf
 learning_resource_types:

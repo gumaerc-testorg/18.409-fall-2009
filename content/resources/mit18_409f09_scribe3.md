@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the Courant-Fischer formula, Rayleigh quotients, the\
   \ connection of \u03BB2 to graph cutting, and Cheeger\u2019s inequality."
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/535add3f6457cc13e51d9774f16bf48f_MIT18_409F09_scribe3.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/535add3f6457cc13e51d9774f16bf48f_MIT18_409F09_scribe3.pdf
 file_size: 254489
 file_type: application/pdf
 learning_resource_types:
