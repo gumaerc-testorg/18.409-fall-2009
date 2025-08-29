@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on solving linear systems, iterative methods, and the technique
   of steepest descent.
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/68f1b1ba4d419ee8f3b67a41ebf258e8_MIT18_409F09_scribe21.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/68f1b1ba4d419ee8f3b67a41ebf258e8_MIT18_409F09_scribe21.pdf
 file_size: 146193
 file_type: application/pdf
 learning_resource_types:

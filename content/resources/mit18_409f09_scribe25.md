@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on various applications of the theory of multiplicative
   weights (MW), zero-sum games, linear programming and the Plotkin-Shmoys-Tardos framework,
   boosting, and approximation algorithms.
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/623c1d5c617cb3a125eaa8ee65ee960c_MIT18_409F09_scribe25.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/623c1d5c617cb3a125eaa8ee65ee960c_MIT18_409F09_scribe25.pdf
 file_size: 161623
 file_type: application/pdf
 learning_resource_types:

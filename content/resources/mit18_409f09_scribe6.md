@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on diameters and their relationship to \u03BB2, eigenvalues,\
   \ expanders, randomness, and butter\uFB02y networks."
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/b2ded92146fb12b78ba83cd13b17b19b_MIT18_409F09_scribe6.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/b2ded92146fb12b78ba83cd13b17b19b_MIT18_409F09_scribe6.pdf
 file_size: 210485
 file_type: application/pdf
 learning_resource_types:
