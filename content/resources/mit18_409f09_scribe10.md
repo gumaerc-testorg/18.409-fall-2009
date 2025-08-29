@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Lecture notes on spectral sparsi\uFB01ers and convex geometry."
-file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/f2033cfbcb661cf6bd1dafe80d5884b6_MIT18_409F09_scribe10.pdf
+file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/f2033cfbcb661cf6bd1dafe80d5884b6_MIT18_409F09_scribe10.pdf
 file_size: 137326
 file_type: application/pdf
 learning_resource_types:

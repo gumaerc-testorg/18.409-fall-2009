@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture note on the multiplicative weights algorithm and its applications.
-file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/60e418d94ed155988f4624795f497d30_MIT18_409F09_scribe24.pdf
+file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/60e418d94ed155988f4624795f497d30_MIT18_409F09_scribe24.pdf
 file_size: 127472
 file_type: application/pdf
 learning_resource_types:

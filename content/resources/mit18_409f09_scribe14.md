@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on a randomized, polynomial time algorithm for approximating
   the volume of a convex body, given a separation oracle.
-file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/8e8a04c2dc55ae8448e1052b220fef07_MIT18_409F09_scribe14.pdf
+file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/8e8a04c2dc55ae8448e1052b220fef07_MIT18_409F09_scribe14.pdf
 file_size: 99526
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on random walks, stationary distribution, lazy random walks,
   connections to Laplacians, convergence, conductance, and Monte Carlo methods.
-file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/100377025e8520aab9f61d8585e71cc5_MIT18_409F09_scribe4.pdf
+file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/100377025e8520aab9f61d8585e71cc5_MIT18_409F09_scribe4.pdf
 file_size: 213764
 file_type: application/pdf
 learning_resource_types:
