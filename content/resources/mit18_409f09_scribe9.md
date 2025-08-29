@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on sparsi\uFB01cation, spectral sparsi\uFB01ers, order\
   \ relations on Laplacians, pseudoinverses, e\uFB00ective resistance, and error bounds."
-file: /courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/105bb5d8da4f17bc9ed3099824e0e59e_MIT18_409F09_scribe9.pdf
+file: /ol-ocw-studio-app/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/105bb5d8da4f17bc9ed3099824e0e59e_MIT18_409F09_scribe9.pdf
 file_size: 192669
 file_type: application/pdf
 learning_resource_types:
