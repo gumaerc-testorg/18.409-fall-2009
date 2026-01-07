@@ -10,7 +10,7 @@ uid: fc7237d5-3f22-d2a3-d365-059f7018eda4
 ---
 ## Readings on Spectral Graph Theory
 
-Andersen, R., F. Chung, K. Lang. "{{% resource_link "66c0ec81-0c16-4e97-9aeb-815026777d64" "Local Graph Partitioning using PageRank Vectors" %}}" in *Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science*, 475-486. Washington, DC: IEEE, October 21-24, 2006.
+Andersen, R., F. Chung, K. Lang. "[Local Graph Partitioning using PageRank Vectors](https://ieeexplore.ieee.org/document/4031383)" in *Proceedings of the 47th Annual IEEE Symposium on Foundations of Computer Science*, 475-486. Washington, DC: IEEE, October 21-24, 2006.
 
 > This is the conference version of Andesen, Chung, and Lang paper on local cutting with PageRank vectors. There is also a longer journal version.
 
@@ -33,28 +33,28 @@ Dan Spielman's Notes on Cutting
 
 > These are Dan Spielman's notes on using graph spectra for cutting ({{% resource_link "f7265287-bd42-c78a-c44b-9d76f60d393c" "PDF" %}}) (Courtesy of Dan Spielman. Used with permission.)
 
-Chung, F. Chapter 1 in "Eigenvalues and the Laplacian of a Graph." *Spectral Graph Theory*. ({{% resource_link "a671a345-48e5-4836-9216-7e0cead8335c" "PDF" %}})
+Chung, F. Chapter 1 in "Eigenvalues and the Laplacian of a Graph." *Spectral Graph Theory*. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch1.pdf))
 
-———. Chapter 2 in "Isoperimetric Problems." *Spectral Graph Theory*. ({{% resource_link "592ca03c-03b1-4c57-9e52-299048061a0b" "PDF" %}})
+———. Chapter 2 in "Isoperimetric Problems." *Spectral Graph Theory*. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch2.pdf))
 
-———. Chapter 3 in "Diameters and Eigenvalues." *Spectral Graph Theory*. ({{% resource_link "59452693-f110-4763-893e-5d9c1c1dddc8" "PDF" %}})
+———. Chapter 3 in "Diameters and Eigenvalues." *Spectral Graph Theory*. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch3.pdf))
 
-———. Chapter 4 in "Paths, Flows and Routing." *Spectral Graph Theory*. ({{% resource_link "ea183a79-e377-4141-be2e-0b4f96cd3ea6" "PDF" %}})
+———. Chapter 4 in "Paths, Flows and Routing." *Spectral Graph Theory*. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/ch4.pdf))
 
-———. "Bibliography." *Spectral Graph Theory*. ({{% resource_link "39f9e3df-d353-402e-8b7b-77b4fe408e45" "PDF" %}})
+———. "Bibliography." *Spectral Graph Theory*. ([PDF](http://www.math.ucsd.edu/~fan/research/cb/bib.pdf))
 
 Randomized Approximation Schemes for Cuts and Flows in Capacitated Graphs
 
-> This is the {{% resource_link "e23628d2-96d1-4dfe-a3e7-ebae7e02f2da" "Benczur-Karger" %}} paper that contains the details about how to sparsify graphs for cut problems.
+> This is the [Benczur-Karger](http://arxiv.org/abs/cs/0207078) paper that contains the details about how to sparsify graphs for cut problems.
 
 ## Readings on Iterative Methods for Linear Algebra
 
-Shewchuk, J. "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain." ({{% resource_link "5e174805-5596-4699-ba50-9a43102b4d7f" "PDF" %}})
+Shewchuk, J. "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain." ([PDF](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
 
 ## Readings on Convex Geometry
 
-Ball, K. "An Elementary Introduction to Modern Convex Geometry." ({{% resource_link "609b731e-3e49-441b-b8cc-46a1c7f3ffaf" "PDF" %}})
+Ball, K. "An Elementary Introduction to Modern Convex Geometry." ([PDF](http://www.msri.org/publications/books/Book31/files/ball.pdf))
 
 Lovasz, L., and M. Simonovits. "The mixing rate of Markov chains, an isoperimetric inequality, and computing the volume." *Foundations of Computer Science* 1 (1990): 346-354.
 
-> This contains the details of the relative {{% resource_link "577085de-cbae-4e47-b532-7a4e113afc4b" "Isoperimetric Inequality" %}}.
+> This contains the details of the relative [Isoperimetric Inequality](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=89553).
